@@ -1,4 +1,4 @@
-# Hamza
+# HamzaGL
 
 A Graphics Software Rasterizer
 
